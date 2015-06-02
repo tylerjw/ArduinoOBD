@@ -50,14 +50,6 @@ static uint32_t lastSpeedTime = 0;
 static int gpsSpeed = -1;
 static uint16_t gpsDate = 0;
 
-static const byte PROGMEM pidTier1[]= {PID_RPM, PID_SPEED, PID_ENGINE_LOAD, PID_THROTTLE};
-static const byte PROGMEM pidTier2[] = {PID_INTAKE_MAP, PID_MAF_FLOW, PID_TIMING_ADVANCE};
-static const byte PROGMEM pidTier3[] = {PID_COOLANT_TEMP, PID_INTAKE_TEMP, PID_AMBIENT_TEMP, PID_ENGINE_FUEL_RATE};
-
-#define TIER_NUM1 sizeof(pidTier1)
-#define TIER_NUM2 sizeof(pidTier2)
-#define TIER_NUM3 sizeof(pidTier3)
-
 byte state = 0;
 
 void processAccelerometer();
@@ -65,19 +57,20 @@ void processGPS();
 
 CDataLogger logger;
 
-gpsLoop()
+void gpsLoop()
 {
-    if(!state & STATE_GUI_ON)) return;
+    if (!(state & STATE_GUI_ON)) return;
 
     if (state & STATE_MEMS_READY) {
         processAccelerometer();
     }
 
 #if USE_GPS
-    uint32_t t mills();
-    while(GPSUART.available() && mills() - t < MAX_GPS_PROCESS_TIME) {
-        processGPS();
-    }
+      uint32_t t = millis();
+      while (GPSUART.available() && millis() - t < MAX_GPS_PROCESS_TIME) {
+          processGPS();
+      }
+#endif
 }
 
 void setColorByValue(int value, int threshold1, int threshold2, int threshold3)
@@ -541,8 +534,8 @@ void loop()
     uint32_t t = millis();
     byte pid;
 
-    gpsLoop()
-    t = mills() - t;
+    gpsLoop();
+    t = millis() - t;
 
     if (logger.dataTime -  lastRefreshTime >= 1000) {
         char buf[12];
