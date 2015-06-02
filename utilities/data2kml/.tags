@@ -1,0 +1,126 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AppendFile	data2kml.cpp	/^void AppendFile(FILE* fp, char* filename)$/;"	f
+Cleanup	data2kml.cpp	/^void Cleanup(KML_DATA* kd)$/;"	f
+ConvertToKML	data2kml.cpp	/^int ConvertToKML(const char* logfile, const char* kmlfile, uint32_t startpos, uint32_t endpos)$/;"	f
+DATASET	data2kml.cpp	/^} DATASET;$/;"	t	typeref:struct:__anon1	file:
+HEADER	logdata.h	/^} HEADER; \/\/256$/;"	t	typeref:struct:__anon6
+KML_DATA	data2kml.cpp	/^} KML_DATA;$/;"	t	typeref:struct:__anon2	file:
+LOG_DATA	logdata.h	/^} LOG_DATA;$/;"	t	typeref:struct:__anon5
+PID_ABS_ENGINE_LOAD	logdata.h	/^#define PID_ABS_ENGINE_LOAD /;"	d
+PID_ACC	logdata.h	/^#define PID_ACC /;"	d
+PID_AMBIENT_TEMP	logdata.h	/^#define PID_AMBIENT_TEMP /;"	d
+PID_BAROMETRIC	logdata.h	/^#define PID_BAROMETRIC /;"	d
+PID_BATTERY	logdata.h	/^	PID_BATTERY,$/;"	e	enum:__anon4
+PID_COMMAND	logdata.h	/^#define PID_COMMAND /;"	d
+PID_COOLANT_TEMP	logdata.h	/^#define PID_COOLANT_TEMP /;"	d
+PID_DEVICE_TEMP	logdata.h	/^	PID_DEVICE_TEMP,$/;"	e	enum:__anon4
+PID_DISTANCE	logdata.h	/^#define PID_DISTANCE /;"	d
+PID_ENGINE_LOAD	logdata.h	/^#define PID_ENGINE_LOAD /;"	d
+PID_FUEL_LEVEL	logdata.h	/^#define PID_FUEL_LEVEL /;"	d
+PID_FUEL_PRESSURE	logdata.h	/^#define PID_FUEL_PRESSURE /;"	d
+PID_GPS_ALTITUDE	logdata.h	/^#define PID_GPS_ALTITUDE /;"	d
+PID_GPS_DATE	logdata.h	/^#define PID_GPS_DATE /;"	d
+PID_GPS_HEADING	logdata.h	/^#define PID_GPS_HEADING /;"	d
+PID_GPS_LATITUDE	logdata.h	/^#define PID_GPS_LATITUDE /;"	d
+PID_GPS_LONGITUDE	logdata.h	/^#define PID_GPS_LONGITUDE /;"	d
+PID_GPS_SAT_COUNT	logdata.h	/^#define PID_GPS_SAT_COUNT /;"	d
+PID_GPS_SPEED	logdata.h	/^#define PID_GPS_SPEED /;"	d
+PID_GPS_TIME	logdata.h	/^#define PID_GPS_TIME /;"	d
+PID_GYRO	logdata.h	/^#define PID_GYRO /;"	d
+PID_INTAKE_PRESSURE	logdata.h	/^#define PID_INTAKE_PRESSURE /;"	d
+PID_INTAKE_TEMP	logdata.h	/^#define PID_INTAKE_TEMP /;"	d
+PID_LOCAL_DATA	logdata.h	/^	PID_LOCAL_DATA = 0xF300,$/;"	e	enum:__anon4
+PID_LOCAL_RATE	logdata.h	/^	PID_LOCAL_RATE,$/;"	e	enum:__anon4
+PID_MAF_FLOW	logdata.h	/^#define PID_MAF_FLOW /;"	d
+PID_REMOTE_DATA	logdata.h	/^	PID_REMOTE_DATA,$/;"	e	enum:__anon4
+PID_REMOTE_RATE	logdata.h	/^	PID_REMOTE_RATE,$/;"	e	enum:__anon4
+PID_RPM	logdata.h	/^#define PID_RPM /;"	d
+PID_RUNTIME	logdata.h	/^#define PID_RUNTIME /;"	d
+PID_SPEED	logdata.h	/^#define PID_SPEED /;"	d
+PID_STAT_0_100	logdata.h	/^#define PID_STAT_0_100 /;"	d
+PID_STAT_0_160	logdata.h	/^#define PID_STAT_0_160 /;"	d
+PID_STAT_0_400	logdata.h	/^#define PID_STAT_0_400 /;"	d
+PID_STAT_0_60	logdata.h	/^#define PID_STAT_0_60 /;"	d
+PID_STAT_ACC_BACKWARD	logdata.h	/^	PID_STAT_ACC_BACKWARD,$/;"	e	enum:__anon3
+PID_STAT_ACC_FORWARD	logdata.h	/^	PID_STAT_ACC_FORWARD,$/;"	e	enum:__anon3
+PID_STAT_BEST_LAP	logdata.h	/^#define PID_STAT_BEST_LAP /;"	d
+PID_STAT_CUR_LAP	logdata.h	/^#define PID_STAT_CUR_LAP /;"	d
+PID_STAT_DISTANCE	logdata.h	/^	PID_STAT_DISTANCE = 0xF200,$/;"	e	enum:__anon3
+PID_STAT_INTAKE_MAX	logdata.h	/^	PID_STAT_INTAKE_MAX,$/;"	e	enum:__anon3
+PID_STAT_INTAKE_MIN	logdata.h	/^	PID_STAT_INTAKE_MIN,$/;"	e	enum:__anon3
+PID_STAT_INTAKE_SUM	logdata.h	/^	PID_STAT_INTAKE_SUM,$/;"	e	enum:__anon3
+PID_STAT_LAP_PROGRESS	logdata.h	/^#define PID_STAT_LAP_PROGRESS /;"	d
+PID_STAT_LAST_LAP	logdata.h	/^#define PID_STAT_LAST_LAP /;"	d
+PID_STAT_RPM_AVG	logdata.h	/^	PID_STAT_RPM_AVG,$/;"	e	enum:__anon3
+PID_STAT_RPM_MAX	logdata.h	/^	PID_STAT_RPM_MAX,$/;"	e	enum:__anon3
+PID_STAT_RPM_MIN	logdata.h	/^	PID_STAT_RPM_MIN,$/;"	e	enum:__anon3
+PID_STAT_SPEED_AVG	logdata.h	/^	PID_STAT_SPEED_AVG,$/;"	e	enum:__anon3
+PID_STAT_SPEED_MAX	logdata.h	/^	PID_STAT_SPEED_MAX,$/;"	e	enum:__anon3
+PID_STAT_TRIP_TIME	logdata.h	/^	PID_STAT_TRIP_TIME,$/;"	e	enum:__anon3
+PID_STAT_WAIT_TIME	logdata.h	/^	PID_STAT_WAIT_TIME,$/;"	e	enum:__anon3
+PID_SYNC	logdata.h	/^#define PID_SYNC /;"	d
+PID_THROTTLE	logdata.h	/^#define PID_THROTTLE /;"	d
+PID_TIME_DATE	logdata.h	/^#define PID_TIME_DATE /;"	d
+PID_TIME_PLAY_SPEED	logdata.h	/^#define PID_TIME_PLAY_SPEED /;"	d
+PID_TIME_REMAIN	logdata.h	/^	PID_TIME_REMAIN,$/;"	e	enum:__anon4
+PID_TIME_TIME	logdata.h	/^#define PID_TIME_TIME /;"	d
+PID_TIMING_ADVANCE	logdata.h	/^#define PID_TIMING_ADVANCE /;"	d
+PID_VIDEO_FRAME	logdata.h	/^#define PID_VIDEO_FRAME /;"	d
+WriteKMLData	data2kml.cpp	/^void WriteKMLData(KML_DATA* kd, uint32_t timestamp, uint16_t pid, float value[])$/;"	f
+WriteKMLTail	data2kml.cpp	/^void WriteKMLTail(KML_DATA* kd)$/;"	f
+absload	data2kml.cpp	/^	uint16_t absload;$/;"	m	struct:__anon1	file:
+acc	data2kml.cpp	/^	int16_t acc[3];$/;"	m	struct:__anon1	file:
+alt	data2kml.cpp	/^	uint16_t alt;$/;"	m	struct:__anon1	file:
+bufbytes	data2kml.cpp	/^	int bufbytes;$/;"	m	struct:__anon2	file:
+buffer	data2kml.cpp	/^	char buffer[256];$/;"	m	struct:__anon2	file:
+coolant	data2kml.cpp	/^	uint16_t coolant;$/;"	m	struct:__anon1	file:
+curDate	data2kml.cpp	/^	uint32_t curDate;$/;"	m	struct:__anon2	file:
+curTime	data2kml.cpp	/^	uint32_t curTime;$/;"	m	struct:__anon2	file:
+dataOffset	logdata.h	/^	uint32_t dataOffset; \/\/4$/;"	m	struct:__anon6
+datacount	data2kml.cpp	/^	int datacount;$/;"	m	struct:__anon2	file:
+datas	data2kml.cpp	/^	DATASET datas;$/;"	m	struct:__anon2	file:
+dataset	data2kml.cpp	/^	DATASET* dataset;$/;"	m	struct:__anon2	file:
+date	logdata.h	/^	uint32_t date;$/;"	m	struct:__anon6
+devid	logdata.h	/^	uint64_t devid; \/\/8$/;"	m	struct:__anon6
+flags	logdata.h	/^	uint16_t flags; \/\/2$/;"	m	struct:__anon6
+flags	logdata.h	/^	uint16_t flags;$/;"	m	struct:__anon5
+fp	data2kml.cpp	/^	FILE* fp;$/;"	m	struct:__anon2	file:
+hdr	data2kml.cpp	/^	HEADER hdr;$/;"	m	struct:__anon2	file:
+id	logdata.h	/^	uint32_t id; \/\/4$/;"	m	struct:__anon6
+intake	data2kml.cpp	/^	uint16_t intake;$/;"	m	struct:__anon1	file:
+lastLat	data2kml.cpp	/^	float lastLat;$/;"	m	struct:__anon2	file:
+lastLon	data2kml.cpp	/^	float lastLon;$/;"	m	struct:__anon2	file:
+lastTime	data2kml.cpp	/^	uint32_t lastTime;$/;"	m	struct:__anon2	file:
+lastts	data2kml.cpp	/^	uint32_t lastts;$/;"	m	struct:__anon2	file:
+lat	data2kml.cpp	/^	float lat;$/;"	m	struct:__anon1	file:
+load	data2kml.cpp	/^	uint16_t load;$/;"	m	struct:__anon1	file:
+lon	data2kml.cpp	/^	float lon;$/;"	m	struct:__anon1	file:
+main	data2kml.cpp	/^int main(int argc, const char* argv[])$/;"	f
+pid	logdata.h	/^	uint16_t pid;$/;"	m	struct:__anon5
+reserved	logdata.h	/^	uint8_t reserved[72]; \/\/72$/;"	m	struct:__anon6
+rpm	data2kml.cpp	/^	uint16_t rpm;$/;"	m	struct:__anon1	file:
+speed	data2kml.cpp	/^	uint16_t speed;$/;"	m	struct:__anon1	file:
+speedgps	data2kml.cpp	/^	uint16_t speedgps;$/;"	m	struct:__anon1	file:
+startLat	data2kml.cpp	/^	float startLat;$/;"	m	struct:__anon2	file:
+startLon	data2kml.cpp	/^	float startLon;$/;"	m	struct:__anon2	file:
+startTick	logdata.h	/^	uint32_t startTick;$/;"	m	struct:__anon6
+state	data2kml.cpp	/^	int state;$/;"	m	struct:__anon2	file:
+stats	logdata.h	/^	uint8_t stats[84]; \/\/84$/;"	m	struct:__anon6
+tail	logdata.h	/^	uint32_t tail; \/\/4$/;"	m	struct:__anon6
+throttle	data2kml.cpp	/^	uint16_t throttle;$/;"	m	struct:__anon1	file:
+time	logdata.h	/^	uint32_t time;$/;"	m	struct:__anon5
+time	logdata.h	/^	uint32_t time;$/;"	m	struct:__anon6
+timestamp	data2kml.cpp	/^	uint32_t timestamp;$/;"	m	struct:__anon1	file:
+ts	data2kml.cpp	/^	uint32_t ts;$/;"	m	struct:__anon2	file:
+ununsed	logdata.h	/^	uint8_t ununsed; \/\/1$/;"	m	struct:__anon6
+ununsed2	logdata.h	/^	uint8_t ununsed2[20];$/;"	m	struct:__anon6
+unused	logdata.h	/^	uint32_t unused[2];$/;"	m	struct:__anon6
+value	logdata.h	/^	uint32_t value;$/;"	m	struct:__anon5
+ver	logdata.h	/^	uint8_t ver; \/\/1$/;"	m	struct:__anon6
+videoOffset	logdata.h	/^	int32_t videoOffset; \/\/4$/;"	m	struct:__anon6
+vin	logdata.h	/^	uint8_t vin[32]; \/\/32$/;"	m	struct:__anon6

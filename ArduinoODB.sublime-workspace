@@ -1,0 +1,1275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"radio",
+				"radioConfig"
+			],
+			[
+				"max",
+				"max_samples"
+			],
+			[
+				"UHD",
+				"UHD_USRP_USRP2"
+			],
+			[
+				"USRP",
+				"USRPReceiver"
+			],
+			[
+				"band",
+				"bandwidths"
+			],
+			[
+				"rad",
+				"radioBandwidths"
+			],
+			[
+				"freq",
+				"freq_t"
+			],
+			[
+				"rx",
+				"rx_rates"
+			],
+			[
+				"SAMPLE_",
+				"MASTER_SAMPLE_RATE"
+			],
+			[
+				"MAST",
+				"MASTER_SAMPLE_RATE_USRP2"
+			],
+			[
+				"UHD_US",
+				"UHD_USRP_USRP2"
+			],
+			[
+				"devi",
+				"device_addr_t"
+			],
+			[
+				"dev",
+				"device_addr_t"
+			],
+			[
+				"uhd",
+				"uhdDeviceAddr"
+			],
+			[
+				"pa",
+				"fs_path"
+			],
+			[
+				"exit",
+				"exit_counter"
+			],
+			[
+				"Side",
+				"SidekiqRadio"
+			],
+			[
+				"ex",
+				"exit_counter"
+			],
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"strin",
+				"std::stringstream"
+			],
+			[
+				"getp",
+				"getRefPeriod"
+			],
+			[
+				"get_l",
+				"get_lastGpsServoInfo"
+			],
+			[
+				"gpsL",
+				"gpsLocked"
+			],
+			[
+				"nmea",
+				"nmea::GpsInfo"
+			],
+			[
+				"get_las",
+				"get_lastGpsServoInfo"
+			],
+			[
+				"fix",
+				"fixQuality"
+			],
+			[
+				"SOR",
+				"SOURCE_STATUS_DEGRADED"
+			],
+			[
+				"m_p",
+				"m_period_ns"
+			],
+			[
+				"Sidek",
+				"SidekiqWidebandSource"
+			],
+			[
+				"sle",
+				"sleep_time"
+			],
+			[
+				"ui",
+				"uint32_t"
+			],
+			[
+				"skiq_r",
+				"skiq_read_last_1pps_timestamp"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"time",
+				"time_stamp"
+			],
+			[
+				"datas",
+				"datasetInformation"
+			],
+			[
+				"pre",
+				"pre_timestamp"
+			],
+			[
+				"skiq_read",
+				"skiq_read_curr_sys_timestamp"
+			],
+			[
+				"prec",
+				"precisionTime"
+			],
+			[
+				"has",
+				"hasPrecisionTime"
+			],
+			[
+				"m_b",
+				"m_basej70_nanoseconds"
+			],
+			[
+				"loc",
+				"locations"
+			],
+			[
+				"get_",
+				"get_lastGpsInfo"
+			],
+			[
+				"m_g",
+				"m_gps"
+			],
+			[
+				"get_last",
+				"get_lastGpsServoInfo"
+			],
+			[
+				"sidek",
+				"sidekiq"
+			],
+			[
+				"get_L",
+				"get_lastGpsServoInfo"
+			],
+			[
+				"lastGps",
+				"lastGpsServoInfo_ptr"
+			],
+			[
+				"ptherad_mut",
+				"pthread_mutex_lock"
+			],
+			[
+				"base",
+				"basej70"
+			],
+			[
+				"times",
+				"timestamp"
+			],
+			[
+				"return",
+				"return_timestamp_seconds"
+			],
+			[
+				"retr",
+				"return_timestamp"
+			],
+			[
+				"uin",
+				"uint64_t"
+			],
+			[
+				"syst",
+				"system_timestamp"
+			],
+			[
+				"m",
+				"m_basej70_nanoseconds"
+			],
+			[
+				"mut",
+				"mutexPtr"
+			],
+			[
+				"last",
+				"lastGpsServoInfo"
+			],
+			[
+				"gps_thre",
+				"gps_thread_struct_t"
+			],
+			[
+				"m_base",
+				"m_basej70_seconds"
+			],
+			[
+				"sys",
+				"system_timestamp"
+			],
+			[
+				"side",
+				"sidekiq_mutex_ptr"
+			],
+			[
+				"pthread_mu",
+				"pthread_mutex_lock"
+			],
+			[
+				"gps_in",
+				"gps_info_mutex_ptr"
+			],
+			[
+				"getLast",
+				"get_lastGpsInfo"
+			],
+			[
+				"pol",
+				"pollGps"
+			],
+			[
+				"is",
+				"isGpsLocked"
+			],
+			[
+				"setT",
+				"setTimeToGpsTime"
+			],
+			[
+				"lastG",
+				"lastGpsServoInfo"
+			],
+			[
+				"ws",
+				"wstl::sidekiq::SidekiqGPS"
+			],
+			[
+				"gps_gp",
+				"gps_gpgga"
+			],
+			[
+				"m_gp",
+				"m_gps"
+			],
+			[
+				"getlas",
+				"get_lastGpsInfo"
+			],
+			[
+				"Gps",
+				"GpsServoInfo"
+			],
+			[
+				"gps_",
+				"gps_gprmc"
+			],
+			[
+				"serv",
+				"servo_regex"
+			],
+			[
+				"get_gp",
+				"get_gprmc"
+			],
+			[
+				"pth",
+				"pthread_mutex_lock"
+			],
+			[
+				"get",
+				"get_gpgga"
+			],
+			[
+				"reg",
+				"regex_match"
+			],
+			[
+				"nme",
+				"nmea_sentance"
+			],
+			[
+				"cS",
+				"cStateSetup"
+			],
+			[
+				"cSt",
+				"cStateFinished"
+			],
+			[
+				"setup",
+				"cStateSetup"
+			],
+			[
+				"Sid",
+				"SidekiqGPS"
+			],
+			[
+				"NU",
+				"NUMBER_OF_CARDS"
+			],
+			[
+				"sideki",
+				"sidekiq_gps"
+			],
+			[
+				"OBJ",
+				"OBJ_ROOT"
+			],
+			[
+				"initi",
+				"Initialize"
+			],
+			[
+				"gai",
+				"gainVal"
+			],
+			[
+				"p_rx",
+				"p_rx_data_start"
+			],
+			[
+				"sam",
+				"samplesRead"
+			],
+			[
+				"samples",
+				"samplesRead"
+			],
+			[
+				"next",
+				"next_ts"
+			],
+			[
+				"num_p",
+				"num_payload_words_read"
+			],
+			[
+				"nex",
+				"next_ts"
+			],
+			[
+				"m_ba",
+				"m_base_sched"
+			],
+			[
+				"OB",
+				"OBJS_LO"
+			],
+			[
+				"set_r",
+				"set_rx_LO_freq_test"
+			],
+			[
+				"samp",
+				"samplesNeeded"
+			],
+			[
+				"Sidekiq",
+				"SidekiqRadio"
+			],
+			[
+				"act",
+				"actual_sample_rate"
+			],
+			[
+				"m_s",
+				"m_state"
+			],
+			[
+				"name",
+				"namespace	namespace"
+			],
+			[
+				"COL",
+				"COLLECT_OKAY"
+			],
+			[
+				"COLL",
+				"COLLECT_FATAL"
+			],
+			[
+				"num",
+				"number_of_cards"
+			],
+			[
+				"use",
+				"use_pcie_only"
+			],
+			[
+				"ns",
+				"n_samples"
+			],
+			[
+				"count",
+				"rx_block_count"
+			],
+			[
+				"sample_",
+				"samples_read_p"
+			],
+			[
+				"total",
+				"total_num_payload_words_acquired"
+			],
+			[
+				"curr",
+				"curr_ts"
+			],
+			[
+				"static",
+				"static_cast"
+			],
+			[
+				"int",
+				"int32_t"
+			],
+			[
+				"skiq_pcie_init_le",
+				"skiq_pcie_init_level_2"
+			],
+			[
+				"usb",
+				"usb_idx"
+			],
+			[
+				"LIB",
+				"LIBRARIES_STATIC"
+			],
+			[
+				"skiq",
+				"skiq_get_serial_num"
+			],
+			[
+				"cardL",
+				"card_list_usb"
+			],
+			[
+				"num_of",
+				"number_of_cards_usb"
+			],
+			[
+				"INC_R",
+				"INC_ROOT_SIDEKIQ"
+			],
+			[
+				"num_sub",
+				"num_subsamples"
+			],
+			[
+				"mBit",
+				"mBitBuffer"
+			],
+			[
+				"csam",
+				"csamples"
+			],
+			[
+				"num_",
+				"num_samples_processed"
+			],
+			[
+				"le",
+				"le8toLe16"
+			],
+			[
+				"le16",
+				"le8to16"
+			],
+			[
+				"hos",
+				"hostIsBE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "utilities/data2kml/data2kml.cpp",
+			"settings":
+			{
+				"buffer_size": 10843,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "megalogger/datalogger.h",
+			"settings":
+			{
+				"buffer_size": 4814,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tweaver/Downloads/DAT00073.CSV",
+			"settings":
+			{
+				"buffer_size": 326249,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "megalogger/megalogger.ino",
+			"settings":
+			{
+				"buffer_size": 21617,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "ard",
+		"selected_items":
+		[
+			[
+				"ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Graph All"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"mak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"MAT",
+				"Set Syntax: MATLAB"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 644.0,
+		"history":
+		[
+			"sublime.packages_path()",
+			"${project_path}"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tweaver/workspace/ArduinoOBD",
+		"/Users/tweaver/workspace/ArduinoOBD/libraries/MultiLCD/hardware",
+		"/Users/tweaver/workspace/ArduinoOBD/libraries/OBD/examples",
+		"/Users/tweaver/workspace/ArduinoOBD/megalogger",
+		"/Users/tweaver/workspace/ArduinoOBD/utilities",
+		"/Users/tweaver/workspace/ArduinoOBD/utilities/data2kml"
+	],
+	"file_history":
+	[
+		"/Users/tweaver/.gitconfig",
+		"/Users/tweaver/Downloads/DAT00073.CSV.kml",
+		"/Users/tweaver/workspace/ArduinoOBD/megalogger/config.h",
+		"/Users/tweaver/workspace/ArduinoOBD/libraries/MultiLCD/UTFT.h",
+		"/Users/tweaver/workspace/upe_trunk/src/hardware/usrp/usrp_uhd.h",
+		"/Users/tweaver/workspace/upe_trunk/src/hardware/usrp/usrp_uhd.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_source.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_dataset.cpp",
+		"/Users/tweaver/workspace/upe_trunk/upe_trunk.sublime-project",
+		"/Users/tweaver/workspace/upe_trunk/.git/MERGE_MSG",
+		"/Users/tweaver/workspace/upe_trunk/src/hardware/usrp/UHDCapture.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_plugin.cpp",
+		"/Users/tweaver/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_options.h",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_source.h",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_options.cpp",
+		"/Users/tweaver/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/Users/tweaver/workspace/upe_trunk/src/hardware/usrp/USRPRadio.h",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/include/wstl_config.h",
+		"/Users/tweaver/workspace/upe_trunk/src/cdma/1xrtt/phy_soft/cdma_rakereceiver.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/3gpp/gsm/phy/Sdcch.cpp",
+		"/Users/tweaver/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tweaver/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tweaver/workspace/opt/uhd_git/host/build/examples/stress_test.py",
+		"/Users/tweaver/workspace/pineapple/wp5.sh",
+		"/Users/tweaver/workspace/upe_trunk/src/cdma/1xrtt/phy_soft/cdma_receiver.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/cdma/1xrtt/phy_soft/cdma_rakesearch.h",
+		"/Users/tweaver/workspace/upe_trunk/src/cdma/1xrtt/phy_soft/cdma_bts.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/ietf/sctp/sctp.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/3gpp/gsm/lapd/gsmumlapd.h",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usbstick/usb_source.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/common/thread/np_threaded_consumer.h",
+		"/Users/tweaver/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/tweaver/workspace/upe_trunk/src/common/thread/np_threads.h",
+		"/Users/tweaver/workspace/upe_trunk/config/wstl_sidekiq.conf",
+		"/Users/tweaver/.bashrc",
+		"/Users/tweaver/workspace/upe_trunk/config/wstl_service.conf",
+		"/Users/tweaver/workspace/upe_trunk/src/runWstl.sh",
+		"/Users/tweaver/.upe/wstl.conf",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/makefile",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/gsmum/makefile",
+		"/Users/tweaver/workspace/upe_trunk/src/common.mak",
+		"/Users/tweaver/workspace/upe_trunk/src/hardware/usrp/makefile",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/include/wstl_wb_source.h",
+		"/Users/tweaver/.ssh/config",
+		"/Users/tweaver/bin/jerseyTunnel",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_gps.cpp",
+		"/Users/tweaver/workspace/upe_trunk/.gitignore",
+		"/Users/tweaver/workspace/upe_trunk/src/hardware/usrp/usrp_type.h",
+		"/Users/tweaver/Library/Application Support/Sublime Text 3/Packages/User/c++/ifndef_cpp.sublime-snippet",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_type.h",
+		"/Users/tweaver/Downloads/test_dboard_coercion.cpp",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/include/wstl_info.h",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/include/wstl_location.h",
+		"/Users/tweaver/workspace/upe_trunk/src/wstl/src/wstl_infotypes.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_plugin.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/makefile",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_radio.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_radio.cpp",
+		"/home/tweaver/workspace/sidekiq/sidekiq_image_20150109/rf/lte_10MHz_rx1_rx2_agc_on.txt",
+		"/home/tweaver/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/include/wstl_info.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_source.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_source.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_plugin.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_source.cpp",
+		"/Network/whistle17/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_radio.cpp",
+		"/Network/whistle17/workspace/upe_trunk/src/mkCpySidekiq.sh",
+		"/Network/whistle17/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_source.cpp",
+		"/Network/whistle17/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_radio.h",
+		"/home/tweaver/workspace/sidekiq/sidekiq_sdk_v1.6_fPIC/custom_app/bin/custom_app_example",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_source.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_gps.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_gps.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/include/wstl_source.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/src/wstl_source.cpp",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/wstl/example/x86_gcc/sdk/include/wstl_source.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_dataset.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/proto/status.pb.h",
+		"/home/tweaver/workspace/upe_trunk/src/gui/np3/wstl/war/WEB-INF/classes/company/web/gui/wstl/proto/Status.java",
+		"/home/tweaver/workspace/upe_trunk/src/gui/np3/wstl/war/WEB-INF/classes/com/company/web/gui/wstl/proto/Status.java",
+		"/home/tweaver/workspace/upe_trunk/src/gui/np3/wstl/src/com/company/web/gui/wstl/proto/Status.java",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/wstl/example/x86_gcc/sdk/src/java_survey_client/src/com/company/web/gui/wstl/proto/Status.java",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/wstl/example/x86_gcc/sdk/src/java_client/src/com/company/web/gui/wstl/proto/Status.java",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/wstl/example/x86_gcc/sdk/proto/status.pb.h",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/gui/np3/wstl/x86_gcc/bin/com/company/web/gui/wstl/proto/Status.java",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/updas2/pdas_source.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/updas2/pdas_source.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/src/wstl_scheduler.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/silver_palm/sp8309_source.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/silver_palm/sp8309_source.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/pdas/pdas_source.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/pdas/pdas_source.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/include/wstl_scheduler.h",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/wstl/example/x86_gcc/sdk/include/wstl_scheduler.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/service/wstl_runner.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/service/wstl_dummy_runner.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_dataset.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_dataset.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/sidekiq_dataset.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/include/wstl_infotypes.h",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/wstl/example/x86_gcc/sdk/include/wstl_infotypes.h",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/wstl/example/x86_gcc/sdk/include/wstl_info.h",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/usrp/usrp_uhd.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/usrp/usrp_uhd.h",
+		"/home/tweaver/workspace/upe_trunk/src/common/nmea/nmea.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/projects/SIDEKIQ.mak",
+		"/home/tweaver/workspace/upe_trunk/src/3gpp/umts/rrc2/makefile",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq/README",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/okfemto/ok_device.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_stream_thread.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/usrp/makefile",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/usbstick/usb_source.h",
+		"/home/tweaver/workspace/upe_trunk/src/common/nmea/nmea.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/include/wstl_location.h",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/pdas/pdas_interface_stub.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/updas2/pdas_interface.h",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/updas2/pdas_driver.h",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/updas2/pdas_driver.cpp",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/pdas/pdas_interface.h",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/pdas/pdas_driver.h",
+		"/home/tweaver/workspace/upe_trunk/src/hardware/pdas/pdas_driver.cpp",
+		"/home/tweaver/workspace/upe_trunk/obj64/np3/ARCH_NONE/wstl/example/x86_gcc/sdk/include/wstl_location.h",
+		"/home/tweaver/workspace/nmea_diff.diff",
+		"/home/tweaver/workspace/upe_trunk/src/common/nmea/subl",
+		"/home/tweaver/workspace/upe_trunk/src/common/nmea/sub",
+		"/home/tweaver/workspace/README",
+		"/home/tweaver/workspace/upe_trunk/src/wstl/usrp/usrp_plugin_subs.cpp"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/,*.cpp,*.h",
+			"/Users/tweaver/workspace/upe_trunk/src/hardware/usrp/,*.cpp,*.h",
+			"/Users/tweaver/workspace/upe_trunk/src/wstl/usrp/,*.cpp,*.h",
+			"/Users/tweaver/workspace/upe_trunk/src/hardware/usrp/,*.cpp,*.h",
+			"/Users/tweaver/workspace/upe_trunk/src/,*.cpp,*.h",
+			"/Users/tweaver/workspace/upe_trunk/src/",
+			"/home/tweaver/workspace/upe_trunk/src/",
+			"/home/tweaver/workspace/upe_trunk/src/hardware/usrp",
+			"/home/tweaver/workspace/upe_trunk/src/wstl/include/hardware/usrp",
+			"/home/tweaver/workspace/upe_trunk/src/wstl/include",
+			"/home/tweaver/workspace/upe_trunk/src/wstl/sidekiq",
+			"/home/tweaver/workspace/upe_trunk/src/wstl/",
+			"/home/tweaver/workspace/upe_trunk/src/wstl/usrp/",
+			"/home/tweaver/workspace/upe_trunk/src/",
+			"/home/tweaver/workspace/upe_trunk/src/hardware",
+			"/home/tweaver/workspace/upe_trunk/src/",
+			"/home/tweaver/workspace/upe_trunk/src/wstl",
+			"/home/tweaver/workspace/upe_trunk/",
+			"/home/tweaver/workspace/upe/src/",
+			"/home/tweaver/workspace/upe/src/hardware/",
+			"/home/tweaver/workspace/upe/src/usr/extern/",
+			"/home/tweaver/workspace/upe/src/wstl/",
+			"/home/tweaver/workspace/upe/src/",
+			"/home/tweaver/workspace/upe/src/wstl/mpt1327/",
+			"/home/tweaver/workspace/upe/src/mpt1327/",
+			"/home/tweaver/workspace/upe/src",
+			"/home/tweaver/workspace/jersey/upe/src",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/wstl/cdmaum",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/wstl/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/wstl/mpt1327",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/mpt1327",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/wstl/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/wstl/src/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/wstl/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/common/phy/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/mpt1327/",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/mpt1327",
+			"/home/tweaver/workspace/jersey/upe/trunk/src/",
+			"<open folders>",
+			"/home/tweaver/workspace/jersey/trunk/src/",
+			"/home/tweaver/workspace/jersey/trunk/src/wstl/gsmum/",
+			"/home/tweaver/workspace/jersey/trunk/src/",
+			"/home/tweaver/workspace/jersey/trunk/src/wstl",
+			"/home/tweaver/workspace/jersey/trunk/src/wstl/mpt1327",
+			"/home/tweaver/workspace/jersey/trunk/src/wstl/",
+			"/home/tweaver/workspace/jersey/trunk/src/",
+			"/home/tweaver/workspace/jersey/trunk/src/wstl/",
+			"/home/tweaver/workspace/jersey/trunk/src/wstl/include",
+			"<open folders>",
+			"/home/tweaver/dev/trunk/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"SimpleArrayData",
+			"intake",
+			"ts",
+			"poop",
+			"ts",
+			"SimpleArrayData",
+			"ExtendedData",
+			"elapsed",
+			"_snprintf",
+			"dataIdleLoop",
+			"CMyOBDI2C",
+			"COBD",
+			"COBDI2C",
+			"processGPS",
+			"start",
+			"RX Daughterboard",
+			"timeSource",
+			"USRP Clock Source",
+			"if(ReferenceClockOption.getOption().compare(\"gpsdo\") == 0 || ReferenceClockOption.getOption().compare(\"external\") == 0)",
+			"ReferenceClockOption",
+			"external",
+			"externalReferenceOption",
+			"ExternalReferenceOption",
+			"referenceClockOption",
+			"external",
+			"externalReferenceOption",
+			"setReferenceClock",
+			"setUseExternalReference",
+			"USE_INT_REF_FLAG",
+			"setUseExternalReference",
+			"setReference",
+			"externalReferenceOption",
+			"useExtRefOption",
+			"externalReferenceOption",
+			"gpsdoReference",
+			"referenceConfig",
+			"gpsdoReference",
+			"extReference",
+			"ext",
+			"extReference",
+			"mboard",
+			"ext",
+			"Ethernet",
+			"wifi",
+			"bridge100",
+			"en",
+			"En1",
+			"getWb8BitBandwidth",
+			"WB_8_BIT_SAMPLE_RATE",
+			"WB_8_BIT_BANDWIDTH",
+			"getWb8BitBandwidth",
+			"WB_8_BIT_BANDWIDTH",
+			"/**!",
+			"WB_8_BIT_BANDWIDTH",
+			"std::cout << \"STREAM_MODE",
+			"std::cout",
+			"BUFFER_SIZE",
+			"BUFFER",
+			"max_samples",
+			"max_sam",
+			"rx_streamer",
+			"getReturnedWork",
+			"np::thread::ThreadedConsumer<MemoryBuffer>",
+			"capture",
+			"64",
+			"error attempting to gain mutex lock",
+			"np::thread::ThreadedConsumer",
+			"thread",
+			"mutex",
+			"error",
+			"unsigned long",
+			"home",
+			"/upe",
+			"upe",
+			"INFO",
+			"dc",
+			"error",
+			"err",
+			"Capture failed",
+			"WB_8_BIT_BANDWIDTH",
+			"WB_8_BIT_SAMPLE_RATE",
+			"sampleRate",
+			"sample",
+			"maxCaptureBandwidth",
+			"max",
+			"50",
+			"list",
+			"std::list",
+			"freq_t",
+			"USRPReceiver::freq_t",
+			"new ",
+			"insert",
+			"USRPReciever",
+			"freq_t",
+			"WbCapabilities::BandwidthMap::value_type",
+			"wstl::WbDataSource::WbCapabilities::BandwidthMap",
+			"INC_ROOT_WSTL",
+			"WSTL_INCLUDE_DIR",
+			"WbCapabilities",
+			"UHD_USRP_USRP2",
+			"tweaver",
+			"maxCaptureBandwidth",
+			"getMaxC",
+			"source",
+			"getMaxCaptureBandwidth",
+			"error",
+			"fixQuality",
+			"m_has_gps",
+			"get_lastGpsInfo",
+			"lastGpsInfo",
+			"uhd",
+			"device",
+			"MAX_DECIMATION",
+			"MIN_DECIMATION",
+			"rx_ranges",
+			"MIN_DECIMATION",
+			"MASTER_SAMPLE_RATE",
+			"USRPReceiver::",
+			"uhdDeviceAddr",
+			"USRPReceiver::UHD_USRP",
+			"usrp.",
+			"uhdDeviceAddr",
+			"mboard",
+			"std::cout",
+			"rx_subdev_name",
+			"tree",
+			"doesRadioExist",
+			"channelInfo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"upe_trunk"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "utilities/data2kml/data2kml.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9493,
+								9493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4745.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "megalogger/datalogger.h",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								875
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tweaver/Downloads/DAT00073.CSV",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 326249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1593,
+								1593
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "megalogger/megalogger.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17934,
+								17934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino-like IDE/Arduino.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 11183.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 475.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "ArduinoODB.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"mpt1327_process.h"
+			],
+			[
+				"dem",
+				"demod.h"
+			],
+			[
+				".m",
+				"matlab/mpt_resample.m"
+			],
+			[
+				"ma",
+				"makefile"
+			],
+			[
+				"g",
+				"goertzel.c"
+			],
+			[
+				"make",
+				"makefile"
+			],
+			[
+				"com",
+				"complex_sample.h"
+			],
+			[
+				"iq",
+				"iqwave_to_float.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cnv_rx",
+				"cnv_rx"
+			],
+			[
+				"GsmLibEven",
+				"_GSMUM_LIB_EVENTS_H_"
+			]
+		],
+		"width": 999.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

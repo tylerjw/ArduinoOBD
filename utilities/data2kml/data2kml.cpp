@@ -368,7 +368,8 @@ End Pos: end time (seconds) for processing\n");
 	if (argc > 4)
 		endpos = (uint32_t)atoi(argv[4]) * 1000;
 
-	_snprintf(outfile, sizeof(outfile), "%s.kml", argv[1]);
+	// _snprintf(outfile, sizeof(outfile), "%s.kml", argv[1]);
+	sprintf(outfile, "%s.kml", argv[1]);
 
 	ConvertToKML(argv[1], argc > 2 ? argv[2] : outfile, startpos, endpos);
 

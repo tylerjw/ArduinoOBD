@@ -585,7 +585,7 @@ void logOBDData(byte pid)
     // if OBD response is very fast, go on processing other data for a while
 #ifdef OBD_MIN_INTERVAL
     while (millis() - start < OBD_MIN_INTERVAL) {
-        obd.dataIdleLoop();
+        obd.dataIdleLoop(); // processes the gps
     }
 #endif
 }
